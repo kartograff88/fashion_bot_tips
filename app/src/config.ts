@@ -32,7 +32,7 @@ export default defineConfig({
               Lookwhiz - команда стилистов в твоём кармане. Присоединяйся, будь на стиле, look whiz ❤️<br/>
               <br/>
               Наш канал ➡️ <a href="https://t.me/Lookwhiz">Lookwhiz</a>`,
-          //button: 'Дальше',
+          button: null,
         },
       ],
     }
